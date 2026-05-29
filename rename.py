@@ -2,7 +2,7 @@ import os
 import glob
 
 # Sæt det grundlæggende navn du vil have (f.eks. salgsdata_)
-basis_navn = "Hop_"
+basis_navn = "Run_"
 
 # Find alle .csv filer i den nuværende mappe
 csv_filer = glob.glob("*.csv")
