@@ -166,7 +166,7 @@ def main():
     print("\nTraining Decision Tree...")
 
     tree_model = DecisionTreeClassifier(
-        max_depth=5,
+        max_depth=6,
         random_state=42
     )
 
